@@ -40,6 +40,6 @@ These are just ideas, not all of them may be implemented in the future. Any sugg
 
 - [ ] News and random interesting facts upon commands 
 
-- [ ] time untill next withdrawal period 
+- [ ] Time until next withdrawal period 
 
 
